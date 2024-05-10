@@ -1,0 +1,20 @@
+Special thanks to GregValiant!!!!!
+
+Watch video on how to install
+https://www.youtube.com/watch?v=pM4HnHCkaBQ&t=2s
+
+Source file is here
+https://community.ultimaker.com/topic/45554-pause-print-ender-3-s1-pro/#comment-333999
+
+Putting on github since admin had asked poster to take it down. 
+
+It worked perfectly - will try again.. only issue was maybe too much filament comes out on the purge - Maybe a tad slower on the purge and not so much.. 
+
+ 
+
+Going to give it a go again - apparently you have back out and on the touch screen and then play button resumes. Finally got the play button back with this new script.. this is great thanks.
+
+ Oh and had to change (Pause Command to M25BQ )- this is what brought the play button back.  
+
+ 
+
